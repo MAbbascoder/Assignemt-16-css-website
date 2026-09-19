@@ -166,12 +166,19 @@ img{
   margin-bottom: 20px;
   letter-spacing: 1px;
 }
-
+.about-text h2:hover{
+    color:white
+    background-color:black
+}
 .about-text p {
   font-size: 16px;
   line-height: 1.5;
   color: #333333;
   font-weight: 600;
+}
+.about-text p:hover{
+    color:white
+    background-color:black
 }
 
 .about-image {
